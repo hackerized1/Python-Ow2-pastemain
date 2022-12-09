@@ -47,3 +47,9 @@ https://www.unknowncheats.me/forum/members/3853446.html (what this is pasted fro
 https://www.unknowncheats.me/forum/valorant/414206-implementing-speed-color-aimbot.html (part of the smooth)
 
 
+EU - if you are getting compilation errors, install visual studio 2019, wdk setup_2.exe install this. Make sure you download and run it afterwards.
+
+TR - Derleme hataları alıyorsanız, visual studio 2019 kurun, wdk setup_2.exe bunu kurun. sonrasın da indirip çalıştırdığınızdan emin olun.
+
+
+
